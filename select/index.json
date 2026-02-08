@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "好きだよとどっちが先に言うのか?",
+  "base_artist": "Rain Tree",
+  "createdAt": "2026-02-08T08:08:55.379694Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "好きだよとどっちが先に言うのか?",
+      "artist": "Rain Tree",
+      "has_synced": false,
+      "path": "select/pl_01_好きだよとどっちが先に言うのか_Rain_Tree.txt"
+    }
+  ]
+}
